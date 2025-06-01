@@ -1,5 +1,5 @@
 # EX 1C Quick Sort
-## DATE:
+## DATE: 4/3/25
 ## AIM:
 To write a python program to implement quick sort using tha last element as pivot on the list of float values.
 
