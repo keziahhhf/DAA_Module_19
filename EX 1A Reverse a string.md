@@ -27,13 +27,13 @@ To write a program to create a recursive function to reverse a string.
 11.End the program. 
 
 ## Program:
-```
+
 /*
 Program to implement Reverse a String
 Developed by: F.Keziah
 Register Number:  212223040094
 */
-```
+
 ```
 
 def rev(s):
