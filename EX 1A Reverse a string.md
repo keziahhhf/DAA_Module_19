@@ -28,11 +28,11 @@ To write a program to create a recursive function to reverse a string.
 
 ## Program:
 
-/*
+
 Program to implement Reverse a String
 Developed by: F.Keziah
 Register Number:  212223040094
-*/
+
 
 ```
 
